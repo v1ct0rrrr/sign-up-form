@@ -154,7 +154,7 @@ form label a
 
 @media screen and (max-width:968px) {
     body{
-        background-color: blueviolet;
+        background-color: hsl(0, 100%, 74%);
         background-image: url(bg-intro-mobile.png);
         background-repeat: no-repeat;
         background-size: cover;
