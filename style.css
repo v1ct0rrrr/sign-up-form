@@ -10,7 +10,7 @@
 
 body
 {
-    background-image: url(./images/bg-intro-desktop.png);
+    background-image: url(bg-intro-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: hsl(0, 100%, 74%);
@@ -155,7 +155,7 @@ form label a
 @media screen and (max-width:968px) {
     body{
         background-color: blueviolet;
-        background-image: url(./images/bg-intro-mobile.png);
+        background-image: url(bg-intro-mobile.png);
         background-repeat: no-repeat;
         background-size: cover;
         overflow-x: hidden;
